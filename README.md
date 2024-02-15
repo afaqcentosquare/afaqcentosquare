@@ -59,6 +59,3 @@ I have 8 years of experience in Laravel. I'm expert in:
 
 > **<h3>Streak Stats Overview:</h3>**
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=afaqcentosquare" alt="afaqcentosquare" /></p>
-
-> **<h3>Languages Stats Overview:</h3>**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afaqcentosquare&show_icons=true&locale=en&layout=compact" alt="afaqcentosquare" /></p>
