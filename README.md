@@ -3,8 +3,8 @@
 <p>An experienced Code Debugger with a strong track record of identifying and resolving complex software issues. I aim to contribute my analytical skills and expertise in debugging tools to ensure efficient and reliable software operations and deliver high-quality software products that meet customer requirements.</p>
 
 > **My Skills:** </br>
-I have 7 years of experience in Laravel. I'm expert in:
-- Back-end: PHP 5.*, 7.*, 8.*, Laravel 5, 6, 7, 8,9,10. 
+I have 8 years of experience in Laravel. I'm expert in:
+- Back-end: PHP 5.*, 7.*, 8.*, Laravel 5, 6, 7, 8, 9 ,10. 
 - Front-end: Vue.js, HTML, CSS, Bootstrap, JS, jQuery. 
 - Databases: MySQL, PostgreSQL. 
 - Profound experience and technical knowledge of the LAMP stack. 
