@@ -2,7 +2,7 @@
 ```php
 <?php
 
-namespace MuhammadWaqas;
+namespace MuhammadAfaq;
 
 class About extends Me
 {
